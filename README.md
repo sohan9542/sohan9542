@@ -3,12 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohan9542" alt="sohan9542" /></a> </p>
 
-- 🔭 I’m currently working on [LMS Management System](https://lmsmanagement99.netlify.app/)
+- 🔭 I’m currently working on [Molla Ecommerce website](https://molla6.netlify.app/)
+
 
 - 🌱 I’m currently learning **Node-js, MongoDB**
-
 - 👨‍🎓 Recent Project [Ecommerce Application](https://molla6.netlify.app/)
-
+- 🔭 Recent Project [LMS Management System](https://lmsmanagement99.netlify.app/)
 - 🤝 Previous Project [E-calc Clone](https://e-calc-clone.netlify.app/)
 
 - 💬 Ask me about **React, Redux, Node-js, MongoDB**
