@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohanur Rahman</h1>
 <h3 align="center">A MERN Stack Developer From Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohan9542" alt="sohan9542" /></a> </p>
+
 
 - 🔭 I’m currently working on [Tour Video](https://tour.video/) & [Compupigeon](https://compupigeon.com/)
 
