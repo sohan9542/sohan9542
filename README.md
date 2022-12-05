@@ -3,13 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohan9542" alt="sohan9542" /></a> </p>
 
-- 🔭 I’m currently working on [Molla Ecommerce website](https://molla6.netlify.app/)
+- 🔭 I’m currently working on [Tour Video](https://tour.video/) & [Compupigeon](https://compupigeon.com/)
 
 
-- 🌱 I’m currently learning **Node-js, MongoDB**
-- 👨‍🎓 Recent Project [Muslim Memorial Website](https://zawaj123.netlify.app/)
-- 🔭 Recent Project [LMS Management System](https://lmsmanagement99.netlify.app/)
-- 🤝 Previous Project [E-calc Clone](https://e-calc-clone.netlify.app/)
+- 👨‍🎓 Recent Project [SafeTag Tracking](https://www.safetagtracking.com/)
+- 🔭 Recent Project [Creators APP](https://creator.app/)
+- 👨‍ Recent Project [The dōTERRA](https://singular-crumble-ea0db4.netlify.app/)
+- 🤝 Previous Project [Quiz Master](https://leafy-cactus-a2eff2.netlify.app/)
+- 🤝 Previous Project [Jurassic Nodes](https://niohdev.netlify.app/)
 
 - 💬 Ask me about **React, Redux, Node-js, MongoDB**
 
