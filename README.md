@@ -12,7 +12,7 @@
 - 🤝 Previous Project [Quiz Master](https://leafy-cactus-a2eff2.netlify.app/)
 - 🤝 Previous Project [Jurassic Nodes](https://niohdev.netlify.app/)
 
-- 💬 Ask me about **React, Redux, Node-js, MongoDB**
+- 💬 Ask me about **React, Tailwind CSS, Bootstrap, Next, Javascript, Material UI, Re-Charts, Swiper JS, Chart JS, Express, Node-js, MongoDB, HTML, CSS, SCSS*
 
 - 📫 How to reach me **sohanurrahmants@gmail.com**
 
