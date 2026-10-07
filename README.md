@@ -2,32 +2,30 @@
 <div align="center">
 
 <a href="https://github.com/sohan9542" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=SOHANUR%20RAHMAN&fontSize=58&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20CMS%20%26%20SaaS%20Specialist&descAlignY=58&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24,30&amp;height=240&amp;section=header&amp;text=SOHANUR%20RAHMAN&amp;fontSize=58&amp;fontAlignY=35&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Full%20Stack%20Developer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20CMS%20%26%20SaaS%20Specialist&amp;descAlignY=58&amp;descSize=16" alt="header" />
 </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%40+XD+Studio;5%2B+years+%E2%80%94+100%2B+client+projects+shipped;React+%2F+Next.js+%2B+Vue+%2F+Nuxt+%2B+Node.js;Payload+%26+Sanity+CMS+%C2%B7+Postgres+%C2%B7+MongoDB;SaaS+%C2%B7+Corporate+sites+%C2%B7+Extensions+%C2%B7+Mobile;End-to-end+delivery+%E2%80%94+UI+%E2%86%92+API+%E2%86%92+CMS+%E2%86%92+deploy;Open+to+remote+Full+Stack+%26+agency+roles" alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=61DAFB&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Full+Stack+Developer;React+%2B+Next.js+%2B+Node;Building+products+that+ship" alt="typing" />
 
 <br/>
 
-<a href="https://github.com/sohan9542"><img src="https://img.shields.io/badge/GitHub-sohan9542-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:sohanurrahmants@gmail.com"><img src="https://img.shields.io/badge/Email-sohanurrahmants-ef4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.fiverr.com/dev_sohan"><img src="https://img.shields.io/badge/Fiverr-dev__sohan-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-<a href="https://www.groupsignal.net"><img src="https://img.shields.io/badge/Product-GroupSignal-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://relc.vercel.app"><img src="https://img.shields.io/badge/Live-RELC-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/sohan9542"><img src="https://img.shields.io/badge/GitHub-sohan9542-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="mailto:sohanurrahmants@gmail.com"><img src="https://img.shields.io/badge/Email-sohanurrahmants-ef4444?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://www.fiverr.com/dev_sohan"><img src="https://img.shields.io/badge/Fiverr-dev__sohan-1dbf73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white" alt="Fiverr" /></a>
+<a href="https://www.groupsignal.net"><img src="https://img.shields.io/badge/Product-GroupSignal-0ea5e9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="GroupSignal" /></a>
+<a href="https://relc.vercel.app"><img src="https://img.shields.io/badge/Live-RELC-22c55e?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="RELC" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%9C%93%20Open%20to%20Work-22c55e?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Remote%20preferred-0ea5e9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full%20Stack%20%2F%20Agency%20%2F%20SaaS-8b5cf6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EN%20%2F%20AR%20sites-f59e0b?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=sohan9542&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="profile views" />
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.gif" width="100%" alt="rainbow divider" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge" alt="Open to Work" />
+<img src="https://img.shields.io/badge/Remote%20preferred-0ea5e9?style=for-the-badge" alt="Remote preferred" />
+<img src="https://img.shields.io/badge/Full%20Stack%20%2F%20Agency%20%2F%20SaaS-8b5cf6?style=for-the-badge" alt="Full Stack" />
+<img src="https://img.shields.io/badge/EN%20%2F%20AR%20sites-f59e0b?style=for-the-badge" alt="EN AR" />
+<img src="https://komarev.com/ghpvc/?username=sohan9542&amp;style=for-the-badge&amp;color=22d3ee&amp;label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
+
+---
 
 ## 🎯 For Recruiters — 30-Second Pitch
 
@@ -56,11 +54,9 @@
 
 📩 **Hire me:** [sohanurrahmants@gmail.com](mailto:sohanurrahmants@gmail.com) · 📞 **+880 1795-421691** · 📍 **Rajshahi, Bangladesh** *(Open to Dhaka / Remote)*
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
+---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
+## 👋 About Me
 
 ```yaml
 identity:
@@ -93,11 +89,9 @@ currently_building:
   - GroupSignal — Facebook group lead alerts for home-service trades
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
+---
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> &nbsp;What I'm Strong At
+## 💪 What I'm Strong At
 
 > *"Senior delivery isn't typing faster — it's owning the whole product path and shipping under pressure."*
 
@@ -139,47 +133,57 @@ currently_building:
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Tech Arsenal
+## 🛠 Tech Arsenal
 
 <div align="center">
 
 ### 🎯 Languages I Ship In
-<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
 
 ### 🎨 Frontend & UI
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,vite&theme=dark" />
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&amp;logo=nuxtdotjs&amp;logoColor=white" alt="Nuxt" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
 <br/>
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Browser%20Extensions-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/Responsive%20UI-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React Native" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&amp;logo=framer&amp;logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/Browser_Extensions-F59E0B?style=for-the-badge" alt="Browser Extensions" />
 
 ### ⚙️ Backend · Data · APIs
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,supabase&theme=dark" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&amp;logo=postgresql&amp;logoColor=black" alt="Neon" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
 <br/>
-<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black" />
-<img src="https://img.shields.io/badge/REST%20APIs-0ea5e9?style=flat-square" />
-<img src="https://img.shields.io/badge/Stripe-635bff?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Auth%20%26%20Sessions-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/REST_APIs-0ea5e9?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&amp;logo=stripe&amp;logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/Auth_%26_Sessions-8b5cf6?style=for-the-badge" alt="Auth" />
 
 ### 🧩 CMS · Platforms · Deploy
-<img src="https://img.shields.io/badge/Payload%20CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
-<img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&amp;logo=payloadcms&amp;logoColor=white" alt="Payload CMS" />
+<img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&amp;logo=sanity&amp;logoColor=white" alt="Sanity" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
+---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Experience Timeline
+## 📅 Experience Timeline
 
 ```text
   📅 Jul 2025 – Present  │  Full Stack Developer
@@ -200,13 +204,11 @@ currently_building:
   ────────────────────── │  Fiverr · @dev_sohan · 100+ projects
   • Custom web apps, dashboards, e-commerce, landing pages, API integrations
   • Owned scope, client communication, delivery, and revisions independently
-  • Repeated work across React, Next.js, Vue, Nuxt, Node, MongoDB, Firebase
+  • Repeated work across React, Next.js, Vue, Nuxt, Node, MongoDB
   • Built long-term client relationships by shipping fast and communicating clearly
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
+---
 
 ## 🚀 Featured Products & Selected Work
 
@@ -237,15 +239,13 @@ currently_building:
 | [`OpenAI-Project-Client`](https://github.com/sohan9542/OpenAI-Project-Client) / [`OpenAI-Project-Server`](https://github.com/sohan9542/OpenAI-Project-Server) | AI-assisted client/server apps |
 
 <div align="center">
-  <a href="https://github.com/sohan9542?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20168%2B%20repositories-%E2%86%92-22d3ee?style=for-the-badge" /></a>
-  <a href="https://www.fiverr.com/dev_sohan"><img src="https://img.shields.io/badge/Hire%20on%20Fiverr-%E2%86%92-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="https://github.com/sohan9542?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20168%2B%20repositories-%E2%86%92-22d3ee?style=for-the-badge" alt="Browse repos" /></a>
+  <a href="https://www.fiverr.com/dev_sohan"><img src="https://img.shields.io/badge/Hire%20on%20Fiverr-%E2%86%92-1dbf73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white" alt="Hire on Fiverr" /></a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
+---
 
-## <img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif" width="28"/> &nbsp;Services I Offer
+## 🧰 Services I Offer
 
 <table>
 <tr>
@@ -310,56 +310,36 @@ Bugfixes, small features, content model tweaks, and deploy support after launch.
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
+---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;GitHub Insights
+## 📊 GitHub Insights
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohan9542&theme=tokyonight" alt="profile details" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohan9542&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan9542&layout=compact&theme=tokyonight&hide_border=true" alt="languages" height="165" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohan9542&amp;theme=tokyonight" alt="profile details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sohan9542&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohan9542&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan9542&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="languages" height="165" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohan9542&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=f59e0b&area=true&area_color=bf91f3&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" alt="activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan9542&amp;theme=tokyonight&amp;hide_border=true" alt="streak" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohan9542/sohan9542/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohan9542/sohan9542/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="snake eating contributions" src="https://raw.githubusercontent.com/sohan9542/sohan9542/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan9542&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Education
+## 🎓 Education
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
-### 🎓 Diploma · Computer Engineering
+### Diploma · Computer Engineering
 **Rajshahi Polytechnic Institute**
 <br/>📅 Graduated 2022
 <br/><sub>Focused on practical software & systems foundations — then spent 5+ years shipping real client and product work.</sub>
@@ -368,11 +348,9 @@ Bugfixes, small features, content model tweaks, and deploy support after launch.
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/blue-line.gif" width="100%" />
-</div>
+---
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28"/> &nbsp;Let's Talk
+## 💬 Let's Talk
 
 <div align="center">
 
@@ -382,12 +360,12 @@ I'm **open to remote Full Stack roles** — agencies, startups, and product team
 
 <br/>
 
-<a href="mailto:sohanurrahmants@gmail.com"><img src="https://img.shields.io/badge/📩%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sohan9542"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.fiverr.com/dev_sohan"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-<a href="https://www.groupsignal.net"><img src="https://img.shields.io/badge/GroupSignal-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://relc.vercel.app"><img src="https://img.shields.io/badge/RELC%20Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://xreply.net"><img src="https://img.shields.io/badge/xReply-8b5cf6?style=for-the-badge" /></a>
+<a href="mailto:sohanurrahmants@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Me" /></a>
+<a href="https://github.com/sohan9542"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://www.fiverr.com/dev_sohan"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white" alt="Fiverr" /></a>
+<a href="https://www.groupsignal.net"><img src="https://img.shields.io/badge/GroupSignal-0ea5e9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="GroupSignal" /></a>
+<a href="https://relc.vercel.app"><img src="https://img.shields.io/badge/RELC_Live-22c55e?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="RELC Live" /></a>
+<a href="https://xreply.net"><img src="https://img.shields.io/badge/xReply-8b5cf6?style=for-the-badge" alt="xReply" /></a>
 
 <br/><br/>
 
@@ -399,7 +377,7 @@ I'm **open to remote Full Stack roles** — agencies, startups, and product team
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24,30&amp;height=140&amp;section=footer" alt="footer"/>
 
 <sub>⚡ <em>"Ship a usable first version fast — then refine with real feedback."</em> ⚡</sub>
 <br/>
